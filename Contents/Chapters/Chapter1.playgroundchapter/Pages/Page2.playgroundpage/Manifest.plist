@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>Content</key>
+			<string>Try changing the storyline variable from .Medieval to .Space and vice-versa, to alter between storyline modes.</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>Try changing the heroColor variable between the available colors .Red, .Blue, .Green, .Purple and .Yellow, to customize your hero.</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>Try changing the shotImpulsePower variable to change the force of the shot.</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>Try changing the fallingDuration variable to customize the duration of the falling movement of the enemies.</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>Try changing the newEnemyDuration variable to customize the spawn time between enemies.</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>Try changing the enemyExplosionSound variable between the available sounds to change the sound of an explosion.</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>Try changing the backgroundMusic variable between the available sounds to change the background music of the game.</string>
+		</dict>
+	</array>
+	<key>PlaygroundLoggingMode</key>
+	<string>Normal</string>
+	<key>LiveViewEdgeToEdge </key>
+	<true/>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>Name</key>
+	<string>Shoot Them Up!</string>
+	<key>LiveViewMode</key>
+	<string>VisibleByDefault</string>
+</dict>
+</plist>
